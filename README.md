@@ -27,10 +27,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/3ohs814r2VtQYQWxkQ/giphy.gif" width="600" height="300"/>
-</div>
-
 - 👋 Hi, I’m ``Gwynbl31dd``
 - 👀 I’m interested in new tech, network automation game dev, design and space
 - 🌱 I’m currently learning game design
