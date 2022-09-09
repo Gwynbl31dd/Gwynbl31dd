@@ -28,8 +28,8 @@
 </h1>
 
 - 👋 Hi, I’m ``Gwynbl31dd``
-- 👀 I’m interested in new tech, network automation game dev, design and space
-- 🌱 I’m currently learning game design
+- 👀 I’m interested in VR, network automation, game development, software design and astro-photography
+- 🌱 I’m currently learning VR development.
 - 💞️ I’m looking to collaborate on network automation and orchestration.
 
 
