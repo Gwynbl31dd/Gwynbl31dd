@@ -4,23 +4,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/kPVTbiTORIopy/giphy.gif" width="400"/>
 </div>
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/anthonypaulin/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.youtube.com/channel/UC6Anm_xBENkpkTZal-ioOQQ">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="https://twitter.com/AnthonyPaulin">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  <a href="mailto:paulin.anthony@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Google Badge"/>
-  </a>
-  <a href="mailto:apaulin@cisco.com">
-    <img src="https://img.shields.io/badge/Cisco-blue?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Badge"/>
-  </a>
-</div>
 
 <h1>
   hey there
